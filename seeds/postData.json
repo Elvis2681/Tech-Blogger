@@ -1,0 +1,17 @@
+[
+    {
+      "user_id": 1,
+      "header": "HTML is fascinnnnating",
+      "description": "Html is a key element component used in coding in various forms of languages... words."
+    },
+    {
+        "user_id": 2,
+        "header": "Java is fascinnnnating",
+        "description": "Java is a key element component used in coding in various forms of languages... words."
+    },
+    {
+        "user_id": 3,
+        "header": "CSS is fascinnnnating",
+        "description": "CSS is a key element component used in coding in various forms of languages... words."
+    }
+]
