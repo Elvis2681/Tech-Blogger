@@ -1,4 +1,3 @@
-//foreign key called user id
 const { Model, DataTypes } = require("sequelize");
 const sequelize = require("../config/connection");
 
