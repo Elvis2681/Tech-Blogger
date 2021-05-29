@@ -19,15 +19,9 @@ deployed link : https://floating-earth-95689.herokuapp.com/
 
 When the user is first on the page he is introduced to a title, the name of hte forum, the post, the post subheader and the post content as well.
 
-## Sample Pages
+## Sample Page
 
-### Dashboard
-
-![Screenshot of the dashboard](./sample-page1.png)
-
-### Post
-
-![Screenshot of a post](./sample-page2.png)
+![Screenshot of the Sample Page](./sample-page.png)
 
 ## Contributions
 
