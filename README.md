@@ -25,7 +25,7 @@ When the user is first on the page he is introduced to a title, the name of hte 
 
 ## Contributions
 
-- Oliver : https://github.com/runescape11111
+- Oliver Shih
 
 ## GitHub Page
 
